@@ -1,0 +1,9 @@
+Vanilton,vanilton18@gmail.comVanilton,vanilton18@gmail.com/nVanilton,vanilton18@gmail.com
+Vanilton,vanilton18@gmail.com,
+Vanilton,vanilton18@gmail.com
+Vanilton,vanilton18@gmail.com
+Vanilton,vanilton18@gmail.com
+Vanilton,vanilton18@gmail.com
+Vanilton,vanilton18@gmail.com
+Vanilton,vanilton18@gmail.com
+{'nome': 'Juvenal', 'email': 'juju@gmail.com'}
