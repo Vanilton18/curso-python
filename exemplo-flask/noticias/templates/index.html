@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Notícias</title>
+    </head>
+    <body>
+        {% block conteudo%}
+        <h1>{{titulo}}</h1>
+        {% for noticia in noticias %}
+        <div>
+            <h1>
+                {{noticia.titulo}}
+            </h1>
+        </div>
+        {% endfor %}
+        {% endblock %}
+
+    </body>
+
+
+</html
